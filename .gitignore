@@ -1,0 +1,16 @@
+# Ignore embedded git repository
+Software Development/Zoom/zoom_api_docs/
+
+# Obsidian config files
+.obsidian/
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore potential security sensitive files
+*.env
