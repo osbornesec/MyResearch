@@ -14,3 +14,7 @@ Thumbs.db
 
 # Ignore potential security sensitive files
 *.env
+
+# Ignore all CLAUDE.md files in any directory
+CLAUDE.md
+**/CLAUDE.md
