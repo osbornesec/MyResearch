@@ -3,6 +3,7 @@ Software Development/Zoom/zoom_api_docs/
 
 # Obsidian config files
 .obsidian/
+**/.obsidian/
 
 # Temporary files
 *.tmp
@@ -18,3 +19,66 @@ Thumbs.db
 # Ignore all CLAUDE.md files in any directory
 CLAUDE.md
 **/CLAUDE.md
+
+# AI and Development Tool Configurations
+.ai/
+.cursor/
+.roo/
+.roomodes
+.taskmaster/
+.windsurfrules
+
+# Ignore all hidden directories (starting with .)
+.*/
+
+# Environment files
+.env
+.env.example
+.env.local
+.env.production
+*.env
+
+# Added by Task Master AI
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev-debug.log
+
+# Dependency directories
+node_modules/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Task files
+tasks.json
+tasks/
+
+# Database files that might contain sensitive info
+*.db
+*.sqlite
+*.sqlite3
+piecesdb.json
+
+# Personal notes and configurations
+Welcome.md
+home.md
+
+# Backup and temporary files
+*~
+*.bak
+*.backup
+.#*
+\#*# 
