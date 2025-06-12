@@ -41,8 +41,10 @@ $ curl https://api.zoom.us/v2/accounts
 }
 ```
 
-Query Arguments | &nbsp;
---- | ---
-page_size *optional*<div class="default">30</div><div class="maximum">300</div> | The number of records returned within a single API call
-page_number *optional*<div class="default">1</div> | Current page number of returned records
+## Query Parameters
+
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| **page_size** *(optional)* | integer | The number of records returned within a single API call<br>**Default:** 30<br>**Maximum:** 300 |
+| **page_number** *(optional)* | integer | Current page number of returned records<br>**Default:** 1 |
 

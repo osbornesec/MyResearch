@@ -72,6 +72,9 @@ tasks/
 *.sqlite3
 piecesdb.json
 
+# Ignore embedded git repositories
+99-Archive/zoom_api_docs_deprecated/
+
 # Personal notes and configurations
 Welcome.md
 home.md

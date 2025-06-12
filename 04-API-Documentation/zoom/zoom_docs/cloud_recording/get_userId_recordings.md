@@ -59,16 +59,20 @@ $ curl https://api.zoom.us/v2/users/{userId}/recordings?from=string&to=string
 }
 ```
 
-Path Arguments | &nbsp;
---- | ---
-userId **required** | The user ID or email address
+## Path Parameters
 
-Query Arguments | &nbsp;
---- | ---
-from **required** | Start Date
-to **required** | End Date
-page_size *optional*<div class="default">30</div><div class="maximum">300</div> | The number of records returned within a single API call
-next_page_token *optional* | Next page token is used to paginate through large result sets. A next page token will be returned whenever the set of available results exceed the current page size. The expiration period for this token is 15 minutes.
-mc *optional*<div class="default">false</div> | Query mc 
-trash *optional*<div class="default">false</div> | Query trash 
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| **userId** *(required)* | string | The user ID or email address |
+
+## Query Parameters
+
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| **from** *(required)* | string (date) | Start Date |
+| **to** *(required)* | string (date) | End Date |
+| **page_size** *(optional)* | integer | The number of records returned within a single API call<br>**Default:** 30<br>**Maximum:** 300 |
+| **next_page_token** *(optional)* | string | Next page token is used to paginate through large result sets. A next page token will be returned whenever the set of available results exceed the current page size. The expiration period for this token is 15 minutes. |
+| **mc** *(optional)* | boolean | Query mc<br>**Default:** false |
+| **trash** *(optional)* | boolean | Query trash<br>**Default:** false | 
 
