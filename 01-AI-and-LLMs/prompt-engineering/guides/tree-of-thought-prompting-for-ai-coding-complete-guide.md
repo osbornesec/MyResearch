@@ -1,10 +1,30 @@
 # Tree-of-Thought Prompting for AI Coding: Complete Implementation Guide
 
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 3
+created: 2025-06-13
+last-reviewed: 2025-06-13
+tags: [source, tree-of-thought, ai-coding, prompt-engineering]
+---
+```
+
 ## Abstract
 
 Tree-of-Thought (ToT) prompting represents a revolutionary advancement in AI-assisted software development, enabling systematic exploration of multiple solution paths through hierarchical reasoning structures. This comprehensive guide synthesizes research from multiple specialized analyses to provide practical implementation frameworks, tools, and strategies for leveraging ToT in coding applications. Research demonstrates up to 74% success rates versus 4% for traditional Chain-of-Thought approaches in complex reasoning tasks, with particular effectiveness in algorithm design, debugging, and architectural decision-making.
 
 **Keywords:** Tree-of-Thought, AI coding, prompt engineering, software development, systematic reasoning
+
+## Extracted Atomic Notes
+
+Key concepts from this guide have been extracted as atomic notes for reuse and linking:
+
+- [[Tree-of-Thought vs Chain-of-Thought Performance]] - Performance benchmarks and evidence
+- [[Tree-of-Thought Four Essential Components]] - Core architectural framework  
+- [[Cognitive Science Foundations of Tree-of-Thought]] - Theoretical foundations and human cognition parallels
 
 ## 1. Introduction and Foundations
 

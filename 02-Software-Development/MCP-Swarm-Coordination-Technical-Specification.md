@@ -1,3 +1,15 @@
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 2
+created: 2025-06-12
+last-reviewed: 2025-06-13
+tags: [source, mcp, swarm-intelligence, software-architecture, coordination, technical-specification]
+---
+```
+
 # MCP Swarm Coordination Framework - Technical Specification
 
 **Version:** 1.0  
@@ -1799,6 +1811,15 @@ describe('Performance Tests', () => {
   });
 });
 ```
+
+---
+
+## Extracted Atomic Notes
+
+The following key concepts have been extracted from this comprehensive specification:
+
+- [[Agent Abstraction Layer Pattern]] - Unified interface design for heterogeneous AI agents
+- [[Consensus-Driven Decision Making]] - Distributed decision-making mechanisms for swarm coordination
 
 ---
 

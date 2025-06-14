@@ -1,3 +1,15 @@
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 1
+created: 2025-06-13
+last-reviewed: 2025-06-13
+tags: [source, workflow-integration, ai-tools, enterprise-patterns, development-productivity]
+---
+```
+
 # Workflow Integration Patterns for Enterprise AI Coding Assistants
 
 ## Executive Summary
@@ -1084,6 +1096,14 @@ class WorkflowIntegrationKPIs:
 - [ ] Advanced team collaboration patterns
 - [ ] Continuous learning system activation
 - [ ] Enterprise-wide rollout preparation
+
+## Extracted Atomic Notes
+
+The following key concepts have been extracted from this comprehensive guide:
+
+- [[AI-Powered Documentation Ecosystem]] - Integrated system for automated documentation generation and intelligent knowledge management
+
+---
 
 ## Conclusion
 

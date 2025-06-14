@@ -1,10 +1,30 @@
 # Advanced Prompt Engineering Strategies for AI Coding: Meta-Prompting, Multi-Modal Techniques, and Adaptive Systems
 
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 3
+created: 2025-06-13
+last-reviewed: 2025-06-13
+tags: [source, prompt-engineering, meta-prompting, ai-coding, advanced-techniques]
+---
+```
+
 ## Abstract
 
 This paper presents cutting-edge prompt engineering strategies that push beyond foundational techniques to enable sophisticated AI-assisted software development. Our research covers meta-prompting frameworks, multi-modal integration approaches, advanced reasoning architectures, and adaptive systems that learn from developer patterns. Through empirical analysis of recent developments (2023-2025), we demonstrate that advanced techniques can achieve 15-25% accuracy improvements with 60% token efficiency gains compared to traditional prompting methods.
 
 **Keywords:** meta-prompting, multi-modal AI, adaptive systems, tree-of-thought, self-reflection, AI coding
+
+## Extracted Atomic Notes
+
+Key concepts from this guide have been extracted as atomic notes for reuse and linking:
+
+- [[Meta-Prompting Self-Reflection Architecture]] - Dynamic self-improving systems architecture
+- [[Advanced Prompt Engineering Performance Benchmarks]] - Quantified performance improvements and metrics  
+- [[Multi-Modal Integration Techniques]] - Image-to-code and cross-modal reasoning approaches
 
 ## 1. Introduction
 

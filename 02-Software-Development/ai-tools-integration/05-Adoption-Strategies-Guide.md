@@ -1,3 +1,15 @@
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 1
+created: 2025-06-13
+last-reviewed: 2025-06-13
+tags: [source, ai-adoption, enterprise-strategy, change-management, organizational-transformation]
+---
+```
+
 # Adoption Strategies Guide for Enterprise AI Coding Assistants
 
 ## Executive Summary
@@ -1640,6 +1652,14 @@ Organizations implementing this adoption strategy can expect:
 - **High developer satisfaction** and retention improvements
 - **Accelerated innovation capacity** and competitive advantage
 - **Strong ROI achievement** meeting or exceeding business case projections
+
+## Extracted Atomic Notes
+
+The following key concepts have been extracted from this comprehensive guide:
+
+- [[Kotter 8-Step Change Management for AI Adoption]] - Structured change management framework adapted for AI implementation
+
+---
 
 ### Long-Term Strategic Value
 

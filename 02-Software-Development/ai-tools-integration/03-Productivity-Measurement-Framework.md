@@ -1,3 +1,15 @@
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 1
+created: 2025-06-13
+last-reviewed: 2025-06-13
+tags: [source, productivity-measurement, metrics-framework, roi-analysis, performance-assessment]
+---
+```
+
 # Productivity Measurement Framework for Enterprise AI Coding Assistants
 
 ## Executive Summary
@@ -1185,6 +1197,14 @@ primary_success_criteria:
       measurement_period: "12 months post implementation"
       validation_method: "hr_retention_metrics_analysis"
 ```
+
+## Extracted Atomic Notes
+
+The following key concepts have been extracted from this comprehensive framework:
+
+- [[Multi-Dimensional Productivity Measurement Model]] - Holistic approach to measuring development productivity across velocity, quality, efficiency, and innovation dimensions
+
+---
 
 ## Conclusion
 
