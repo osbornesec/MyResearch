@@ -1,3 +1,15 @@
+```yaml
+---
+state: permanent
+type: source-document
+source-type: comprehensive-guide
+atomic-extracts: 7
+created: 2025-06-15
+last-reviewed: 2025-06-15
+tags: [source, pkm, obsidian, methodologies, comprehensive-guide, zettelkasten, para, basb, gtd, cornell]
+---
+```
+
 # Personal Knowledge Management Methodologies in Obsidian: A Comprehensive Guide
 
 ## Table of Contents
@@ -889,3 +901,22 @@ Whether you choose a single methodology or create a hybrid approach, focus on bu
 ---
 
 *This guide represents current best practices as of June 2025. PKM methodologies and Obsidian capabilities continue to evolve, so regular reassessment and adaptation of your system is recommended.*
+
+---
+
+## Extracted Atomic Notes
+
+This comprehensive guide has been processed using the Smart Extraction Methodology to extract key reusable concepts:
+
+### Core PKM Methodologies
+- [[Zettelkasten Method Principles]] - Network-based knowledge development through atomic linking
+- [[PARA Method Framework]] - Action-oriented organization by actionability hierarchy
+- [[Building a Second Brain CODE Framework]] - Output-focused knowledge transformation system
+- [[Getting Things Done Core Workflow]] - Systematic productivity workflow for mental clarity
+
+### Knowledge Processing Techniques  
+- [[Progressive Summarization Technique]] - Layered content distillation for multi-level access
+- [[Spaced Repetition for Knowledge Management]] - Memory optimization through scheduled review
+- [[Cornell Note-Taking System Structure]] - Structured capture with built-in review framework
+
+These atomic notes capture the essential methodological frameworks that can be applied across different contexts and combined for hybrid PKM approaches.

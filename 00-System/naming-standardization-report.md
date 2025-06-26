@@ -56,8 +56,10 @@ This report documents the comprehensive naming standardization performed across 
 - `LLMs Get Lost In Multi-Turn Conversation .md` → `llms-get-lost-in-multi-turn-conversation.md`
 - `Tree_of_Thought_Prompting_for_AI_Coding_Research.md` → `tree-of-thought-prompting-for-ai-coding-research.md`
 
-### 6. Tutorial Files (02-Software-Development/tutorials/)
+### 6. Tutorial Files (02-Software-Development/tutorials/) - ARCHIVED
 - `00.code.md` through `22.code.md` → `00-tutorial.md` through `22-tutorial.md`
+- **Status**: Moved to `/99-Archive/tutorial-stubs/software-development-llm-prompt-engineering/`
+- **Reason**: External book content, not atomic vault knowledge
 
 ### 7. Agile Methodology Files (02-Software-Development/methodologies/agile/)
 - `Key Artifacts and Specialized Roles in the Agile S.md` → `key-artifacts-and-specialized-roles-in-agile-methodologies.md`

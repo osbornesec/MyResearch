@@ -24,9 +24,20 @@ This index organizes atomic concepts extracted from comprehensive prompt enginee
 
 ## Structure
 
+### Foundational Concepts
+*Core principles and understanding of LLM mechanics*
+
+- [[llm-token-prediction-engine-fundamentals]] - LLMs as sophisticated next-token prediction systems
+- [[iterative-refinement-paradigm-prompt-engineering]] - Central methodology for systematic prompt optimization
+- [[temperature-parameter-creativity-control]] - Randomness and creativity control mechanisms
+- [[comprehensive-iterative-prompt-engineering-framework]] - Unified framework synthesis
+
 ### Core Traditional Concepts
 *Foundational prompt engineering principles and established techniques*
 
+- [[chain-of-thought-intermediate-reasoning-steps]] - Explicit reasoning through intermediate steps
+- [[few-shot-prompting-pattern-learning]] - Pattern demonstration through examples
+- [[step-back-prompting-abstraction-technique]] - Meta-level principle extraction
 - [[Tree-of-Thought Four Essential Components]] - Architectural framework for systematic reasoning
 - [[Tree-of-Thought vs Chain-of-Thought Performance]] - Benchmark evidence showing 18.5x improvement
 - [[Cognitive Science Foundations of Tree-of-Thought]] - Theoretical basis rooted in human cognition
@@ -34,6 +45,10 @@ This index organizes atomic concepts extracted from comprehensive prompt enginee
 ### Advanced Techniques
 *Sophisticated approaches pushing beyond foundational methods*
 
+- [[self-consistency-multiple-reasoning-paths]] - Parallel exploration with consensus selection
+- [[tree-of-thoughts-reasoning-exploration]] - Multi-path exploration with backtracking
+- [[react-reasoning-action-loop]] - Dynamic iteration with external tool integration
+- [[recursive-learning-simulation-methodology]] - Cognitive simulation of learning processes
 - [[Meta-Prompting Self-Reflection Architecture]] - Dynamic self-improving systems with 30-40% debugging reduction
 - [[Multi-Modal Integration Techniques]] - Image-to-code generation with 74% accuracy on complex challenges
 - [[Advanced Prompt Engineering Performance Benchmarks]] - Quantified improvements across multiple metrics
@@ -41,6 +56,7 @@ This index organizes atomic concepts extracted from comprehensive prompt enginee
 ### Next-Generation Frameworks
 *Revolutionary computational approaches to prompt optimization*
 
+- [[automatic-prompt-engineering-meta-optimization]] - AI-driven automated prompt generation and optimization
 - [[TextGrad Automatic Differentiation]] - Gradient-based optimization for natural language systems
 - [[Evolutionary Prompt Optimization]] - Darwinian principles achieving 25% performance gains
 - [[Quantum-Inspired Prompt Optimization]] - Superposition and entanglement for complex optimization
@@ -111,10 +127,10 @@ This index organizes atomic concepts extracted from comprehensive prompt enginee
 
 ## Maintenance
 
-- **Note Count**: 9 extracted atomics from 3 comprehensive sources
-- **Last Review**: 2025-06-13
-- **Next Review**: 2025-06-20
-- **Health**: Growing - comprehensive extraction from major sources complete
+- **Note Count**: 21 extracted atomics from 5 comprehensive sources  
+- **Last Review**: 2025-06-17
+- **Next Review**: 2025-06-24
+- **Health**: Enhanced - integrated iterative refinement research with comprehensive framework synthesis
 
 ---
 

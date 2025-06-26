@@ -8,6 +8,11 @@ This section provides comprehensive libraries of ready-to-use templates, documen
 
 **Key Themes**: Document automation, template libraries, prompt engineering, workflow acceleration, standardization
 
+### Connection to Hub MOCs
+- #supports [[00-System/MOCs/research-methodology-hub-moc]] - Template and generator methodology research integration
+- #validates-using [[00-System/MOCs/evidence-hub-moc]] - Template effectiveness validation and automation evidence
+- #extends [[00-System/MOCs/innovation-hub-moc]] - Template innovation and automation breakthrough patterns
+
 ---
 
 ## 📋 BDUF Document Generation Library
@@ -15,27 +20,27 @@ This section provides comprehensive libraries of ready-to-use templates, documen
 ### Complete BDUF Prompt Collection
 **30+ Professional Document Generation Prompts**
 
-**Project Foundation Documents**:
-- [[05-Templates-and-Generators/bduf-prompts/Project Charter Prompt|Project Charter]] - Project initiation and approval
-- [[05-Templates-and-Generators/bduf-prompts/Business Requirements Document (BRD) Prompt|Business Requirements Document (BRD)]] - Business objectives and requirements
-- [[05-Templates-and-Generators/bduf-prompts/Feasibility Study Report Prompt|Feasibility Study Report]] - Technical and economic viability
-- [[05-Templates-and-Generators/bduf-prompts/Project Management Plan Prompt|Project Management Plan]] - Comprehensive project planning
+**Project Foundation Templates** (Available as atomic notes):
+- [[project-charter-template-pattern]] - Project initiation and approval frameworks
+- [[business-requirements-documentation-pattern]] - Business objectives capture methods
+- [[feasibility-study-framework-pattern]] - Technical and economic viability assessment
+- [[project-management-planning-pattern]] - Comprehensive project planning approaches
 
-**Requirements & Analysis**:
-- [[05-Templates-and-Generators/bduf-prompts/Software Requirements Specification (SRS) Prompt|Software Requirements Specification (SRS)]] - Detailed functional requirements
-- [[05-Templates-and-Generators/bduf-prompts/Use Case Document Prompt|Use Case Document]] - User interaction scenarios
-- [[05-Templates-and-Generators/bduf-prompts/Requirements Traceability Matrix Prompt|Requirements Traceability Matrix]] - Requirement tracking
+**Requirements & Analysis Templates** (Available as atomic notes):
+- [[software-requirements-specification-pattern]] - Detailed functional requirements capture
+- [[use-case-documentation-pattern]] - User interaction scenario modeling
+- [[requirements-traceability-framework-pattern]] - Systematic requirement tracking
 
-**Architecture & Design**:
-- [[05-Templates-and-Generators/bduf-prompts/System Architecture Document (SAD) Prompt|System Architecture Document (SAD)]] - High-level system design
-- [[05-Templates-and-Generators/bduf-prompts/Detailed Technical Design Document (TDD) Prompt|Detailed Technical Design Document (TDD)]] - Detailed implementation design
-- [[05-Templates-and-Generators/bduf-prompts/Data Architecture Document Prompt|Data Architecture Document]] - Data modeling and storage
-- [[05-Templates-and-Generators/bduf-prompts/Security Architecture Document Prompt|Security Architecture Document]] - Security framework design
+**Architecture & Design Templates** (Available as atomic notes):
+- [[system-architecture-documentation-pattern]] - High-level system design frameworks
+- [[technical-design-specification-pattern]] - Detailed implementation design methods
+- [[data-architecture-modeling-pattern]] - Data modeling and storage strategies
+- [[security-architecture-framework-pattern]] - Security framework design approaches
 
-**Technical Specifications**:
-- [[05-Templates-and-Generators/bduf-prompts/API Specifications Prompt|API Specifications]] - API design and documentation
-- [[05-Templates-and-Generators/bduf-prompts/Interface Specifications Prompt|Interface Specifications]] - System interface definitions
-- [[05-Templates-and-Generators/bduf-prompts/Data Dictionary Prompt|Data Dictionary]] - Data element definitions
+**Technical Specifications Templates**:
+- [[api-specification-documentation-pattern]] - API design and documentation standards
+- [[interface-specification-design-pattern]] - System interface definition methods
+- [[data-dictionary-documentation-pattern]] - Data element definition frameworks
 
 **Development & Implementation**:
 - [[05-Templates-and-Generators/bduf-prompts/Development Plan Prompt|Development Plan]] - Implementation strategy and timeline
@@ -79,9 +84,9 @@ This section provides comprehensive libraries of ready-to-use templates, documen
 ### Modern Development Templates
 **AI-Enhanced and Traditional Approaches**
 
-**Product Development**:
-- [[05-Templates-and-Generators/sdlc-templates/createprd|Product Requirements Document (PRD) Creation]] - Comprehensive product planning
-- [[05-Templates-and-Generators/sdlc-templates/createbacklogfromprd|Create Backlog from PRD]] - Feature breakdown and prioritization
+**Product Development Templates** (Available as atomic notes):
+- [[product-requirements-document-template]] - Comprehensive product planning frameworks
+- [[feature-backlog-generation-pattern]] - Feature breakdown and prioritization methods
 
 **Development Workflows**:
 - Agile sprint planning templates
@@ -102,15 +107,12 @@ This section provides comprehensive libraries of ready-to-use templates, documen
 ### AI-Powered Development Planning Resources
 **Templates and frameworks for implementing AI planning methodologies**
 
-**Strategic Implementation Templates**:
-- Implementation decision matrices based on [[01-AI-and-LLMs/ai-planning-methodologies/AI-Planning-Comparative-Analysis-2024|Comparative Analysis]]
-- ROI calculation templates from [[01-AI-and-LLMs/ai-planning-methodologies/AI-Powered-Software-Development-Planning-Industry-Analysis|Industry Analysis]]
-- Phased deployment roadmaps from [[01-AI-and-LLMs/ai-planning-methodologies/AI-Software-Development-Planning-Complete-Research-Summary-2024|Complete Research Summary]]
-
-**Technical Integration Templates**:
-- Hybrid architecture implementation guides from [[01-AI-and-LLMs/Swarm-Intelligence-vs-Traditional-AI-Planning-Integration-Analysis-2025|Integration Analysis]]
-- MCP coordination setup templates from [[02-Software-Development/MCP-Swarm-Coordination-Technical-Specification|Technical Specification]]
-- Performance monitoring frameworks and KPI templates
+**AI Planning Implementation Templates** (Available as atomic notes):
+- [[ai-planning-decision-matrix-pattern]] - Implementation decision frameworks
+- [[ai-planning-roi-calculation-template]] - Return on investment measurement
+- [[phased-ai-deployment-roadmap-pattern]] - Systematic deployment planning
+- [[hybrid-ai-architecture-template]] - Combined approach implementation
+- [[ai-performance-monitoring-framework]] - KPI and measurement templates
 
 **Planning Framework Templates**:
 - Traditional AI planning system setup (HTN, STRIPS, MCTS)
@@ -199,22 +201,22 @@ This section provides comprehensive libraries of ready-to-use templates, documen
 ## 🔗 Cross-Domain Connections
 
 ### Connects to Software Development
-- [[02-Software-Development MOC|Software Development MOC]] - Methodology implementation
-- [[02-Software-Development/methodologies/bduf-waterfall/|BDUF Methodologies]] - Document application
-- [[02-Software-Development/methodologies/ai-enhanced-sdlc/|AI-Enhanced SDLC]] - Modern workflows
+- [[02-software-development-moc]] - Methodology implementation
+- [[bduf-documentation-philosophy-pattern]] - Document application strategies
+- [[ai-enhanced-sdlc-methodology-pattern]] - Modern workflow integration
 
 ### Connects to AI & LLMs
-- [[01-AI-and-LLMs MOC|AI & LLMs MOC]] - Prompt engineering foundations
-- [[Prompt Engineering Hub|Prompt Engineering Hub]] - Advanced prompting techniques
-- [[01-AI-and-LLMs/prompt-engineering/guides/|Prompt Engineering Guides]] - Template creation
+- [[01-ai-and-llms-moc]] - Prompt engineering foundations
+- [[adaptive-prompting-systems]] - Advanced prompting techniques
+- [[comprehensive-iterative-prompt-engineering-framework]] - Template creation methods
 
 ### Connects to API Documentation
-- [[04-API-Documentation MOC|API Documentation MOC]] - Documentation standards
-- [[04-API-Documentation/zoom/zoom_docs/|Zoom API Example]] - Real-world application
+- [[04-api-documentation-moc]] - Documentation standards
+- [[api-specification-documentation-pattern]] - Real-world application examples
 
 ### Connects to Business Analysis
-- [[03-Business-Analysis MOC|Business Analysis MOC]] - Requirements gathering
-- [[03-Business-Analysis/market-research/|Market Research]] - Product planning
+- [[03-business-analysis-moc]] - Requirements gathering frameworks
+- Available market research and product planning patterns
 
 ---
 
@@ -273,22 +275,22 @@ This section provides comprehensive libraries of ready-to-use templates, documen
 ## 📈 Learning Pathways
 
 ### BDUF Implementation Path
-1. Start with [[05-Templates-and-Generators/bduf-prompts/BDUF Document Sequence Guide|Document Sequence Guide]]
-2. Generate [[05-Templates-and-Generators/bduf-prompts/Project Charter Prompt|Project Charter]]
-3. Create [[05-Templates-and-Generators/bduf-prompts/Software Requirements Specification (SRS) Prompt|SRS Document]]
-4. Develop [[05-Templates-and-Generators/bduf-prompts/System Architecture Document (SAD) Prompt|Architecture Documentation]]
+1. Start with [[bduf-documentation-philosophy-pattern]] for foundational approach
+2. Generate [[project-charter-template-pattern]] for project initiation
+3. Create [[software-requirements-specification-pattern]] for requirements capture
+4. Develop [[system-architecture-documentation-pattern]] for design frameworks
 
 ### Modern Development Path
-1. Begin with [[05-Templates-and-Generators/sdlc-templates/createprd|PRD Creation]]
-2. Generate [[05-Templates-and-Generators/sdlc-templates/createbacklogfromprd|Feature Backlog]]
-3. Implement development workflows
-4. Integrate AI-assisted tools
+1. Begin with [[product-requirements-document-template]] for product planning
+2. Generate [[feature-backlog-generation-pattern]] for systematic breakdown
+3. Implement [[ai-enhanced-sdlc-methodology-pattern]] for modern workflows
+4. Integrate AI-assisted automation tools
 
 ### AI Planning Implementation Path
-1. Review [[01-AI-and-LLMs/ai-planning-methodologies/AI-Software-Development-Planning-Complete-Research-Summary-2024|Complete Research Summary]] for strategic framework
-2. Select approach using [[01-AI-and-LLMs/ai-planning-methodologies/AI-Planning-Comparative-Analysis-2024|Comparative Analysis]] templates
-3. Design implementation using [[01-AI-and-LLMs/Swarm-Intelligence-vs-Traditional-AI-Planning-Integration-Analysis-2025|Integration Analysis]] patterns
-4. Deploy and monitor using performance templates and KPI frameworks
+1. Review [[ai-planning-decision-matrix-pattern]] for strategic framework selection
+2. Select approach using [[ai-planning-roi-calculation-template]] for analysis
+3. Design implementation using [[hybrid-ai-architecture-template]] patterns
+4. Deploy and monitor using [[ai-performance-monitoring-framework]] templates
 
 ### Prompt Engineering Path
 1. Study existing prompt libraries

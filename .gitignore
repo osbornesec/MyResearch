@@ -72,8 +72,9 @@ tasks/
 *.sqlite3
 piecesdb.json
 
-# Ignore embedded git repositories
+# Ignore embedded git repositories and archive directories
 99-Archive/zoom_api_docs_deprecated/
+99-Archive/
 
 # Personal notes and configurations
 Welcome.md
@@ -85,3 +86,8 @@ home.md
 *.backup
 .#*
 \#*# 
+
+
+
+# Ignore Smart Environment folder
+.smart-env

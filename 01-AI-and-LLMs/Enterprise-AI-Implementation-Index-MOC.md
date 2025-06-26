@@ -40,7 +40,16 @@ This index organizes atomic concepts extracted from enterprise case studies and 
 *ROI quantification and business impact assessment*
 
 - [[AI Coding ROI Quantification Framework]] - SPACE methodology demonstrating 55% faster development cycles
+- [[ai-performance-measurement-enterprise-framework]] - Multi-dimensional measurement combining performance, adoption, and learning analytics
 - [[Multi-Modal Integration Techniques]] - Cross-modal capabilities contributing to enterprise productivity
+
+### Performance Optimization
+*Production-ready optimization frameworks for enterprise scale*
+
+- [[adaptive-load-balancing-ai-assistants]] - Context-aware tool activation reducing cognitive load and integration overhead
+- [[tool-consolidation-optimization-strategy]] - Primary/secondary tool allocation optimizing enterprise tool ecosystems
+- [[ai-aware-cicd-pipeline-adaptations]] - CI/CD pipeline enhancements for AI-generated code validation and governance
+- [[heterogeneous-hardware-scheduling-ai-workloads]] - 36% power savings through optimal accelerator utilization
 
 ## Enterprise Success Metrics
 
